@@ -1,0 +1,17 @@
+body {
+    background: url('../assets/imgs/bg.jpg') no-repeat;
+}
+
+#root div {
+    width: 200px;
+    margin-top: 50px;
+    transform: rotate(45deg);
+}
+
+.a {
+    color: #f00;
+}
+
+.b {
+    margin-right: 20px;
+}
